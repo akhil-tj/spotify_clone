@@ -10,8 +10,7 @@ class CustomGridCustomCard extends StatelessWidget {
             height: 60,
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage(
-                    'images/professional-album-cover-design-template-bec7df92ec9d801d89589570649c230f.jpg'),
+                image: AssetImage('images/1.jpg'),
                 fit: BoxFit.fill,
               ),
             ),
