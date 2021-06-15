@@ -10,7 +10,7 @@ class CustomAppBar extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              'Good evening',
+              'Good afternoon',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 26,
